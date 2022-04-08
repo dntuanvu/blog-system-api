@@ -1,4 +1,4 @@
-# sphtech-blog-system
+# blog-system-service
 
 Run `docker-compose up` to start the service locally
 
